@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/emmanuil-andreev-6809a079" target="_blank">Emmanuil</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Unity C# Developer</h3>
 
-<!--
-**Muuulya/Muuulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **C#, Unity**
+- 📫 How to reach me **andreev.emmanuil@gmail.com**
+- 🌍 I speak Russian (native), English (B1)
 
-Here are some ideas to get you started:
+### Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ C#
++ MD
+
+### Tools:
+
++ Unity
++ JetBrains Rider
++ Visual Studio
++ Git
++ Photoshop
++ Blender
